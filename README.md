@@ -37,7 +37,4 @@ Partition by the "date_built" field on the formatted parquet home sales data.
 
  Both the cached data and the Parquet formatted data have faster runtimes compared to the original data . 
 
-### Conclusion
-In conclusion, it's important to consider that the average price for homes is influenced by various factors and not limited to this datasaet.
-
-Parquet formatted data demonstrates the best runtime among the three options (Run time for original data, cached data and parquet formatted data)
+In conclusion, Parquet formatted data demonstrates the best runtime among the three options (Run time for original data, cached data and parquet formatted data).
