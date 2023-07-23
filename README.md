@@ -1,6 +1,8 @@
 # Home_Sales
 Use of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
+![image](https://github.com/Annbelbella/Home_Sales/assets/124645643/d5283ac2-1105-4108-9234-4f770f17921b)
+
 ### Findings
 1. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
